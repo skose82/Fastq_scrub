@@ -11,7 +11,7 @@ params.outdir = "${launchDir}/output/"
 
 log.info """\
 
-         PROVAC - N F   P I P E L I N E    
+         FASTQ_SCRUB - N F   P I P E L I N E    
          ===================================
          Developed by Dr. S.H.Kose 
          s.kose@imperial.ac.uk
