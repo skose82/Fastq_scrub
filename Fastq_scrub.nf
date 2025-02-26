@@ -6,7 +6,7 @@ params.reads = "${launchDir}/fastqs/*.fastq.gz"
 params.outdir = "${launchDir}/output/"
 
 /*if paired end 
-#params.reads = "$baseDir/data/ggal/gut_{1,2}.fq" 
+#params.reads = "${launchDir}/fastqs/foo_{1,2}.fq" 
 */
 
 log.info """\
