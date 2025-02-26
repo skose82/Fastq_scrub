@@ -13,8 +13,7 @@ log.info """\
 
          FASTQ_SCRUB - N F   P I P E L I N E    
          ===================================
-         Developed by Dr. S.H.Kose 
-         s.kose@imperial.ac.uk
+        	 S.H.Kose. 2025
          ===================================
 
 
