@@ -1,4 +1,4 @@
-Attribution-NonCommercial 4.0 International
+## Attribution-NonCommercial 4.0 International
 CC BY-NC 4.0
 
 You are free to:
@@ -12,6 +12,11 @@ Under the following terms:
 Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 NonCommercial — You may not use the material for commercial purposes .
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+This can be to this code directly,
+
+    `S.H Kose. Fastq_Scrub, a nextflow pipeline v1.2 (2025). github.com/skose82/Fastq_scrub.`
+
 
 Notices:
 
