@@ -1,5 +1,5 @@
 
-FASTQ_SCRUB v1.2 
+###FASTQ_SCRUB v1.2 
 
 S.H.Kose 2025
 
@@ -7,13 +7,13 @@ S.H.Kose 2025
 A nextflow pipeline to check quality, contaminants 
 and trim fastq files for downstream processing. 
 
-## Requirements:
+#### Requirements:
 
  `Nextflow `
  `Java JDK 18 + `
  `Python 3 `
 
-## Usage:
+#### Usage:
 
 Please include fastq files to be processed in your working directory. 
 
