@@ -3,6 +3,7 @@
 
 >A nextflow pipeline to check quality, contaminants 
 >and trim fastq files for downstream processing.
+
 >S.H.Kose 2025.
 
 #### Requirements:
