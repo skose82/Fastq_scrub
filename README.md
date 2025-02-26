@@ -1,5 +1,5 @@
 
-###FASTQ_SCRUB v1.2 
+### FASTQ_SCRUB v1.2 
 
 S.H.Kose 2025
 
