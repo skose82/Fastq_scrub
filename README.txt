@@ -1,11 +1,12 @@
 ================================================================
 
-			FASTQC_SCRUB v1.2 
+						FASTQC_SCRUB v1.2 
 
-			Dr.S.H.Kose 2025
+						 S.H.Kose 2025
 ================================================================
 
-A nextflow pipeline to check quality, contaminants and trim fastq files for downstream processing. 
+A nextflow pipeline to check quality, contaminants 
+and trim fastq files for downstream processing. 
 
 Requirements:
 
