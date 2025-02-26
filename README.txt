@@ -7,7 +7,7 @@
 A nextflow pipeline to check quality, contaminants 
 and trim fastq files for downstream processing. 
 
-** Requirements: **
+## Requirements: ##
 
 Nextflow
 Java JDK 18 +
