@@ -1,6 +1,6 @@
 ================================================================
 
-						FASTQC_SCRUB v1.2 
+						FASTQ_SCRUB v1.2 
 
 						 S.H.Kose 2025
 ================================================================
@@ -20,7 +20,7 @@ Please include fastq files to be processed in your working directory.
 
 example command: 
 
-nextflow fastq_scrub.nf
+nextflow Fastq_scrub.nf
 
 Fastqc and other parameters can be altered in the main nf file. 
 
